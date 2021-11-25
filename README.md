@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Hvnt3r's github stats](https://github-readme-stats.vercel.app/api?username=Hvnt3r)](https://github.com/Hvnt3r/github-readme-stats)
+
+🔭 I’m currently working on touching 🐟
+
 <!--
 **Hvnt3r/Hvnt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
