@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hvnt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvnt3r)](https://github.com/anuraghazra/github-readme-stats)
+[![Hvnt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvnt3r&count_private=true&show_icons=true?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on touching 🐟
 
